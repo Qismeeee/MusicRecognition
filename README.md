@@ -1,4 +1,4 @@
-# {{Music Recognition Web}}
+# Music Recognition Web
 
 ## Description
 
