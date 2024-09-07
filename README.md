@@ -10,7 +10,6 @@
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of `Node.js`, `ReactJS`.
-- You have a `{{Operating System}}` machine.
 - You have `git` installed on your machine.
 
 ## Installation
@@ -32,7 +31,7 @@ First, clone the repository to your local machine:
 ### Server-Side Setup
 1. Navigate to the server directory:
     ```bash
-    cd ../server
+    cd server
     ```
 
 2. Install the dependencies:
@@ -71,7 +70,7 @@ First, clone the repository to your local machine:
 4. The server will be running on `http://localhost:{{server-port}}`.
 
 ## Usage
-To use {{Project Name}}, follow these steps:
+To use Music Recognition Web, follow these steps:
 
 1. Ensure both the client and server are running.
 2. Open your browser and navigate to `http://localhost:{{client-port}}`.
