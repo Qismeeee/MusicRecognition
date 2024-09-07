@@ -1,7 +1,7 @@
-# {{Project Name}}
+# {{Music Recognition Web}}
 
 ## Description
-{{Music Recognition Web}}
+
 
 ## Project Structure
 - **Client**: The front-end part of the application.
